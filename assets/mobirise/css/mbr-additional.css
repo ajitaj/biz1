@@ -1753,7 +1753,7 @@ body {
 .cid-qC5h50SvBE .mbr-gallery-filter ul li .btn {
   border: none;
   background-color: transparent;
-  color: #4284df;
+  color: #f59d55;
   padding: 0.5rem 1rem 0.6rem;
   border-radius: 0;
   margin: 0!important;
@@ -1761,11 +1761,11 @@ body {
 }
 .cid-qC5h50SvBE .mbr-gallery-filter ul li.active .btn {
   padding: 0.5rem 1rem 0.5rem;
-  border-bottom: 2px #4284df solid;
+  border-bottom: 2px #f59d55 solid;
   border-radius: 0 !important;
 }
 .cid-qC5h50SvBE .mbr-gallery-filter ul li {
-  border-bottom: 1px #4284df solid;
+  border-bottom: 1px #f59d55 solid;
   padding: 0;
 }
 .cid-qC5jjx8pUw {
